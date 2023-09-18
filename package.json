@@ -1,0 +1,24 @@
+{
+  "name": "node-practise-folder",
+  "version": "1.0.0",
+  "description": "a node js tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rishav",
+    "singh",
+    "practise"
+  ],
+  "author": "rishav",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "mongodb": "^6.1.0",
+    "mongoose": "^7.5.2",
+    "simple-logs": "^0.2.11"
+  }
+}
