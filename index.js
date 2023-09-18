@@ -447,7 +447,7 @@
 //     brand: String,
 //     category:String
 // });
-
+////
 // const saveInDB = async () => {
 //     const Product = mongoose.model('products', ProductSchema);
 //     let data = new Product({
